@@ -65,7 +65,7 @@ Outlined as the [Advanced Installation](https://docs.openshift.org/latest/instal
 
 
 ### Creating a project
-
+ 
 After logging in with `oc login` (default username/password: openshift), if you don't have a project setup all ready, go ahead and take care of that:
 
         $ oc new-project nodejs-echo \
